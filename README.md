@@ -4,8 +4,11 @@ Plugin for Blumentals WeBuilder/RapidPHP/RapidCSS/HTMLPad editors
 This is a plugin for the following editors:
 
 Webuilder: http://www.webuilderapp.com/
+
 RapidPHP: http://www.rapidphpeditor.com/
+
 RapidCSS: https://www.rapidcsseditor.com/
+
 HTMLPad: https://www.htmlpad.net/
 
 Function:
