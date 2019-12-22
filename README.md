@@ -1,4 +1,4 @@
-# webuilder-clonedocument
+# wbp-clonedocument
 Plugin for Blumentals WeBuilder/RapidPHP/RapidCSS/HTMLPad editors
 
 This is a plugin for the following editors:
